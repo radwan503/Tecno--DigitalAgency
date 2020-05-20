@@ -1,0 +1,283 @@
+@media (min-width: 240px) and (max-width: 319px) {}
+
+@media (min-width: 320px) and (max-width: 374px) {
+    .bullet-scroll {
+        display: none;
+    }
+    .had-r1 {
+        font-size: 2em;
+    }
+    .contact-form {
+        margin-top: 100px;
+        background-color: #fff;
+        padding: 20px;
+    }
+    .contactfdskjname {
+        margin-bottom: 35px;
+    }
+    .project-content h3 a {
+        font-size: 20px;
+    }
+    .section-heading .section-title {
+        font-size: 1rem;
+    }
+    .counter-box {
+        color: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 30px;
+        border-radius: 0;
+        background: #ff5805;
+        margin-bottom: 10px;
+    }
+    .cta-content h2 {
+        font-size: 35px;
+    }
+    .cta-content .default-btn {
+        background-color: #2b2a2f;
+        margin-right: -37px;
+    }
+    .induse-sec-lft {
+        position: relative;
+        z-index: 3;
+        margin-left: -220px;
+        display: none;
+    }
+    .nav-link:before {
+        position: unset;
+    }
+    .portfolio-item-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 479px) {
+    .bullet-scroll {
+        display: none;
+    }
+    .had-r1 {
+        font-size: 2em;
+    }
+    .contact-form {
+        margin-top: 100px;
+        background-color: #fff;
+        padding: 20px;
+    }
+    .contactfdskjname {
+        margin-bottom: 35px;
+    }
+    .project-content h3 a {
+        font-size: 20px;
+    }
+    .section-heading .section-title {
+        font-size: 1rem;
+    }
+    .counter-box {
+        color: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 30px;
+        border-radius: 0;
+        background: #ff5805;
+        margin-bottom: 10px;
+    }
+    .cta-content h2 {
+        font-size: 35px;
+    }
+    .cta-content .default-btn {
+        background-color: #2b2a2f;
+        margin-right: -37px;
+    }
+    .induse-sec-lft {
+        position: relative;
+        z-index: 3;
+        margin-left: -220px;
+        display: none;
+    }
+    .nav-link:before {
+        position: unset;
+    }
+    .portfolio-item-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 639px) {
+    .bullet-scroll {
+        display: none;
+    }
+    .had-r1 {
+        font-size: 2em;
+    }
+    .contact-form {
+        margin-top: 100px;
+        background-color: #fff;
+        padding: 20px;
+    }
+    .contactfdskjname {
+        margin-bottom: 35px;
+    }
+    .project-content h3 a {
+        font-size: 20px;
+    }
+    .section-heading .section-title {
+        font-size: 1rem;
+    }
+    .counter-box {
+        color: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 30px;
+        border-radius: 0;
+        background: #ff5805;
+        margin-bottom: 10px;
+    }
+    .cta-content h2 {
+        font-size: 35px;
+    }
+    .cta-content .default-btn {
+        background-color: #2b2a2f;
+        margin-right: -37px;
+    }
+    .induse-sec-lft {
+        position: relative;
+        z-index: 3;
+        margin-left: -220px;
+        display: none;
+    }
+    .nav-link:before {
+        position: unset;
+    }
+    .portfolio-item-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+    .bullet-scroll {
+        display: none;
+    }
+    .had-r1 {
+        font-size: 2em;
+    }
+    .contact-form {
+        margin-top: 100px;
+        background-color: #fff;
+        padding: 20px;
+    }
+    .contactfdskjname {
+        margin-bottom: 35px;
+    }
+    .project-content h3 a {
+        font-size: 20px;
+    }
+    .section-heading .section-title {
+        font-size: 1rem;
+    }
+    .counter-box {
+        color: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 30px;
+        border-radius: 0;
+        background: #ff5805;
+        margin-bottom: 10px;
+    }
+    .cta-content h2 {
+        font-size: 35px;
+    }
+    .cta-content .default-btn {
+        background-color: #2b2a2f;
+        margin-right: -37px;
+    }
+    .induse-sec-lft {
+        position: relative;
+        z-index: 3;
+        margin-left: -220px;
+        display: none;
+    }
+    .nav-link:before {
+        position: unset;
+    }
+    .portfolio-item-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .bullet-scroll {
+        display: none;
+    }
+    .contact-form {
+        margin-top: 100px;
+        background-color: #fff;
+        padding: 20px;
+    }
+    .contactfdskjname {
+        margin-bottom: 35px;
+    }
+    .project-content h3 a {
+        font-size: 20px;
+    }
+    .section-heading .section-title {
+        font-size: 1rem;
+    }
+    .counter-box {
+        color: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 30px;
+        border-radius: 0;
+        background: #ff5805;
+        margin-bottom: 10px;
+    }
+    .cta-content h2 {
+        font-size: 35px;
+    }
+    .cta-content .default-btn {
+        background-color: #2b2a2f;
+        margin-right: -37px;
+    }
+    .globe-info {
+        display: none;
+    }
+    .globe-info-img,
+    .image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 250px;
+        background-size: 100%;
+        margin: 0;
+        -webkit-animation: spin 30s linear infinite;
+        -moz-animation: spin 30s linear infinite;
+        animation: spin 30s linear infinite;
+    }
+    .induse-sec-lft .globe-img {
+        width: 300px;
+        height: 300px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .nav-link:before {
+        position: unset;
+    }
+    .portfolio-item-img img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {}
+
+@media (min-width: 1680px) and (max-width: 1920px) {}
