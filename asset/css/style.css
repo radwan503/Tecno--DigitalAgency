@@ -1295,13 +1295,13 @@ span.counter-num {
 
 .btn-read {
     background-color: #fff;
-    padding: 5px 20px;
+    padding: 12px 20px;
     position: relative;
     text-transform: uppercase;
     font-size: 15px;
     font-weight: 600;
     color: #ff8505;
-    box-shadow: 0px 0px 1px 1px #ddd;
+    box-shadow: 0px 1px 1px #ddd;
 }
 
 .btn-read::before {
@@ -1554,7 +1554,7 @@ span.counter-num {
 
 .our-team .team-profile:before {
     content: "";
-    border-bottom: 30px solid #ff8505;
+    border-bottom: 32px solid #ff8505;
     border-right: 262px solid transparent;
     position: absolute;
     top: -30px;
@@ -1618,9 +1618,12 @@ span.counter-num {
 .our-team .team-social > li > a {
     color: #ff8505;
     margin-top: 15px;
+    text-align: center;
+    display: flex;
     font-size: 12px;
+    justify-content: center;
+    align-items: center;
     background-color: #fff;
-    padding: 8px;
     height: 30px;
     width: 30px;
     border-radius: 30px;
@@ -2289,8 +2292,8 @@ p.postby {
 /*footer*/
 
 .contactfdskjname {
-    font-size: 20px;
-    color: #fff;
+    color: #ff5805;
+    font-size: 16px;
 }
 
 .contactfdskjname span i {
@@ -2308,12 +2311,13 @@ p.postby {
 .contact-form {
     margin-top: 100px;
     background-color: #fff;
-    padding: 50px;
+    padding: 40px;
     color: #222;
-    border-radius: 100px;
-    background-image: url(../image/all_banner/Presentation1.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    border-radius: 62px;
+    -webkit-box-shadow: 1.736px 2.518px 5px 0 rgba(0, 0, 0, .14);
+    -moz-box-shadow: 1.736px 2.518px 5px 0 rgba(0, 0, 0, .14);
+    -o-box-shadow: 1.736px 2.518px 5px 0 rgba(0, 0, 0, .14);
+    box-shadow: 1.736px 2.518px 5px 0 rgba(0, 0, 0, .14);
 }
 
 .widget-inside img {
@@ -2404,9 +2408,8 @@ p.postby {
 }
 
 .modal-map a {
-    font-size: 20px;
-    text-transform: capitalize;
-    color: #fff;
+    color: #ff5805;
+    font-size: 16px;
 }
 
 
